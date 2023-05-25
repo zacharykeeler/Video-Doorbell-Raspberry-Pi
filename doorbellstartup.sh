@@ -1,0 +1,1 @@
+lxterminal -e sudo -u pi python doorbell.py
