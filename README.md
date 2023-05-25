@@ -1,9 +1,13 @@
 # Smart-Doorbell
 A wifi-connected raspberry pi doorbell with video chat
 
-Github repository for the Smart Doorbell Hackershack video
-
 This project was run on a Raspberry Pi 3 with Raspbian Buster. The video call wasn't as smooth as I would've liked, so it would probably be better to run this on a Pi 4. However, I haven't run this on the Pi 4, so I can't guarantee that it works.
+
+Video Demonstration:
+
+[![Overview Video](http://img.youtube.com/vi/hRNLOtwdNvY/0.jpg)](https://www.youtube.com/watch?v=hRNLOtwdNvY)
+
+https://www.youtube.com/watch?v=hRNLOtwdNvY
 
 ## Instructions
 
