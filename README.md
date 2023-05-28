@@ -1,6 +1,6 @@
 # Wifi-connected Raspberry Pi doorbell with video chat.
 
-![doorbell_progress](https://github.com/zacharykeeler/Video-Doorbell-Raspberry-Pi/assets/70228954/c50dc3ee-6479-4ac7-9a48-4439cbf20cfb)
+![doorbell_progress](doorbell_progress.png)
 
 This Raspberry Pi Video Doorbell project is a student-led exploration into leveraging the Raspberry Pi 4 for home security and communication. We've combined a variety of hardware and software components to create a unique, DIY video doorbell that offers real-time video and audio communication via [Jitsi Meet](https://meet.jit.si/).
 
