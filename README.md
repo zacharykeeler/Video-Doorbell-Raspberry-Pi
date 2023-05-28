@@ -1,15 +1,29 @@
-# Smart-Doorbell
-A wifi-connected raspberry pi doorbell with video chat
+# Wifi-connected Raspberry Pi doorbell with video chat.
 
-This project was run on a Raspberry Pi 3 with Raspbian Buster. The video call wasn't as smooth as I would've liked, so it would probably be better to run this on a Pi 4. However, I haven't run this on the Pi 4, so I can't guarantee that it works.
+![doorbell_progress](https://github.com/zacharykeeler/Video-Doorbell-Raspberry-Pi/assets/70228954/c50dc3ee-6479-4ac7-9a48-4439cbf20cfb)
 
-Video Demonstration:
+This Raspberry Pi Video Doorbell project is a student-led exploration into leveraging the Raspberry Pi 4 for home security and communication. We've combined a variety of hardware and software components to create a unique, DIY video doorbell that offers real-time video and audio communication via [Jitsi Meet](https://meet.jit.si/).
+
+## Key Features
+
+- **Video Call on Doorbell Ring**: The system uses the integrated doorbell and the Raspberry Pi's GPIO headers to initiate a video call when pressed.
+
+- **Complete Package**: Integrated 3.5 inch screen, microphone, speaker, button, and camera.
+
+- **Custom 3D Printed Enclosure**: Protects the device with a compact enclosure.
+
+- **Linux and Python**: Uses a custom start script with Debian Buster to enable the video call functionality on startup. Uses Python for the networking functionality.
+
+## Video Demonstration
 
 [![Overview Video](http://img.youtube.com/vi/hRNLOtwdNvY/0.jpg)](https://www.youtube.com/watch?v=hRNLOtwdNvY)
 
 https://www.youtube.com/watch?v=hRNLOtwdNvY
 
-## Instructions
+
+## Installation Instructions
+
+<details><summary>Click for details.</summary>
 
 ###  Enable the Camera
 
@@ -144,6 +158,5 @@ press `esc` and `ZZ` to save and exit.
 
 Reboot.
 
-If you have any issues getting the doorbell to start, please leave an issue on this repository and the community will help you get it working.
 
-
+</details>
